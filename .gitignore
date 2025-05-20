@@ -1,0 +1,25 @@
+# macOS system files
+.DS_Store
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.ipynb_checkpoints
+
+# Virtual environments
+.env
+.venv/
+
+# Large or raw data
+*.zip
+*.tar
+*.rar
+raw_data/
+outputs/
+screenshots/
+
+# Logs and junk
+*.log
+*.tmp
